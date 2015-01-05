@@ -1,4 +1,4 @@
 hs-exercises
 ============
 
-Exercise
+Haskell exercises for a certain class whose lecture materials are posted online.
